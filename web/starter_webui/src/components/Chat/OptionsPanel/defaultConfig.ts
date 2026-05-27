@@ -34,8 +34,8 @@ export default {
     ],
   },
   api: {
-    baseURL: BASE_URL,
-    token: TOKEN,
+    baseURL: 'http://localhost:8000',
+    token: '',
   },
 };
 
